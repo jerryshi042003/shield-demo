@@ -1,0 +1,42 @@
+{
+  "sections": [
+    {
+      "title": "Report terms explained",
+      "order": 1,
+      "terms": [
+        {
+          "term": "Shield",
+          "definition": "The reporting interface in this demo. A franchise is a team workspace: choose LA Galaxy for soccer or LA Kings for hockey."
+        },
+        {
+          "term": "Net ticket revenue",
+          "definition": "Ticket sales value after cancellations and reversals. It measures sales, not necessarily cash already collected."
+        },
+        {
+          "term": "Net / paid / complimentary tickets",
+          "definition": "Net tickets are tickets remaining after cancellations. Paid tickets have a price; complimentary (comp) tickets are free. Net tickets include both."
+        },
+        {
+          "term": "Goal attainment / gap",
+          "definition": "Attainment is revenue divided by the target: 80% means $80 of each $100 goal is reached. Gap is target minus revenue; a negative gap means the goal was exceeded."
+        },
+        {
+          "term": "Pacing / goal pace",
+          "definition": "Pacing shows how sales build over time. Goal pace is the target path toward the final revenue goal. Dana\u2019s chart uses invented paths, not historical performance."
+        },
+        {
+          "term": "Booked / demo forecast",
+          "definition": "Booked is the synthetic sales recorded so far. The forecast is an invented end result for demonstration, not a prediction from a model. Match-chart \u201c14d\u201d means 14 days before kickoff."
+        },
+        {
+          "term": "FSE \u2014 full-season equivalent",
+          "definition": "A way to express ticket-plan volume in units of a complete season. Smaller plans can contribute fractions of one FSE; exact counting rules vary. FSE is the plan-sales category in this demo."
+        },
+        {
+          "term": "Genie",
+          "definition": "Shield\u2019s question-and-answer data assistant. This public demo matches example questions to scripted answers calculated from fake data; it does not call an AI model or a live database."
+        }
+      ]
+    }
+  ]
+}

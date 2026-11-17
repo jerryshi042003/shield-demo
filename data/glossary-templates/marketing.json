@@ -1,0 +1,38 @@
+{
+  "sections": [
+    {
+      "title": "Report terms explained",
+      "order": 1,
+      "terms": [
+        {
+          "term": "Fan growth / FDG",
+          "definition": "The increase in known fan records in a team\u2019s database. It is different from social followers or game attendance; all counts here are fake."
+        },
+        {
+          "term": "Social impressions / engagement",
+          "definition": "Impressions count how many times content was displayed, including repeat views. Engagement measures interactions such as likes, comments and shares. The displayed rates and league ranks are illustrative."
+        },
+        {
+          "term": "App power users",
+          "definition": "The demo\u2019s label for highly active app users. It is an example engagement metric; no real activity threshold is modeled."
+        },
+        {
+          "term": "Attributed revenue / campaign spend",
+          "definition": "Attributed revenue is sales credited to a campaign in the fictional data. Spend is the campaign cost. Attributed revenue is not profit or proof that the campaign caused the sale."
+        },
+        {
+          "term": "Visits / orders",
+          "definition": "Visits count website sessions, not necessarily different people. Orders count purchases, not tickets; one order may contain several tickets."
+        },
+        {
+          "term": "PRE / REG / season to date / YoY",
+          "definition": "PRE means preseason; REG means regular season. Season to date covers the start of the selected season through the selected date. YoY means comparison with the same period a year earlier."
+        },
+        {
+          "term": "Goal attainment / gap",
+          "definition": "Attainment is revenue divided by the target: 80% means $80 of each $100 goal is reached. Gap is target minus revenue; a negative gap means the goal was exceeded."
+        }
+      ]
+    }
+  ]
+}

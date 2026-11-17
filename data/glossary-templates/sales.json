@@ -1,0 +1,54 @@
+{
+  "sections": [
+    {
+      "title": "Report terms explained",
+      "order": 1,
+      "terms": [
+        {
+          "term": "FSE \u2014 full-season equivalent",
+          "definition": "A way to express ticket-plan volume in units of a complete season. Smaller plans can contribute fractions of one FSE; exact counting rules vary. FSE is the plan-sales category in this demo."
+        },
+        {
+          "term": "ATP \u2014 average ticket price",
+          "definition": "The average price per paid ticket. Complimentary tickets are excluded from the paid-ticket average."
+        },
+        {
+          "term": "Net ticket revenue",
+          "definition": "Ticket sales value after cancellations and reversals. It measures sales, not necessarily cash already collected."
+        },
+        {
+          "term": "Net / paid / complimentary tickets",
+          "definition": "Net tickets are tickets remaining after cancellations. Paid tickets have a price; complimentary (comp) tickets are free. Net tickets include both."
+        },
+        {
+          "term": "Goal attainment / gap",
+          "definition": "Attainment is revenue divided by the target: 80% means $80 of each $100 goal is reached. Gap is target minus revenue; a negative gap means the goal was exceeded."
+        },
+        {
+          "term": "Sell through",
+          "definition": "The percentage of available ticket capacity already sold. It measures inventory, not the number of people who actually attended."
+        },
+        {
+          "term": "Price level / product mix / heat map",
+          "definition": "A price level groups seats into pricing tiers. Product mix splits sales among plans, groups and single-game tickets. The heat map compares those categories across pricing tiers."
+        },
+        {
+          "term": "Ancillary products",
+          "definition": "Extras alongside admission tickets, such as parking, experience vouchers, passes and giveaways. They are counted separately from admission tickets."
+        },
+        {
+          "term": "PRE / REG / season to date / YoY",
+          "definition": "PRE means preseason; REG means regular season. Season to date covers the start of the selected season through the selected date. YoY means comparison with the same period a year earlier."
+        },
+        {
+          "term": "Genie",
+          "definition": "Shield\u2019s question-and-answer data assistant. This public demo matches example questions to scripted answers calculated from fake data; it does not call an AI model or a live database."
+        },
+        {
+          "term": "SQL \u2014 Structured Query Language",
+          "definition": "A language for asking a database for rows and totals. The expandable query is a scripted example; the demo calculates its answer from local fake data."
+        }
+      ]
+    }
+  ]
+}

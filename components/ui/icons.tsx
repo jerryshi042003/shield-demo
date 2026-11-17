@@ -1,0 +1,75 @@
+// Centralized icon imports for better tree-shaking and bundle optimization
+import {
+  Menu,
+  Search,
+  ExternalLink,
+  ArrowUp,
+  ArrowDown,
+  Check,
+  ChevronRight,
+  Circle,
+  Info,
+  ChevronDown,
+  MoreHorizontal,
+  X,
+  CheckCircle,
+  AlertTriangle,
+  XCircle,
+  Clock,
+  Loader2,
+  AlertCircle,
+  Activity,
+  TrendingUp,
+  type LucideIcon,
+} from 'lucide-react';
+
+// Export all icons used in the application
+export const Icons = {
+  Menu,
+  Search,
+  ExternalLink,
+  ArrowUp,
+  ArrowDown,
+  Check,
+  ChevronRight,
+  Circle,
+  Info,
+  ChevronDown,
+  MoreHorizontal,
+  X,
+  CheckCircle,
+  AlertTriangle,
+  XCircle,
+  Clock,
+  Loader2,
+  AlertCircle,
+  Activity,
+  TrendingUp,
+} as const;
+
+// Export the type for TypeScript
+export type { LucideIcon };
+
+// Individual icon exports for backward compatibility
+export {
+  Menu,
+  Search,
+  ExternalLink,
+  ArrowUp,
+  ArrowDown,
+  Check,
+  ChevronRight,
+  Circle,
+  Info,
+  ChevronDown,
+  MoreHorizontal,
+  X,
+  CheckCircle,
+  AlertTriangle,
+  XCircle,
+  Clock,
+  Loader2,
+  AlertCircle,
+  Activity,
+  TrendingUp,
+};
